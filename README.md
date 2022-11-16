@@ -2,7 +2,7 @@
 
 ## Transformer architecture
 
-- Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. **Attention is all you need**. In I. Guyon, U. V. Luxburg, S. Bengio, et al., editors, *Advances in neural information processing systems*, volume 30. Curran Associates, Inc. 2017. [pdf](https://doi.org/10/gpnmtv)
+- Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. **Attention is all you need**. In *Advances in neural information processing systems*, volume 30. Curran Associates, Inc. 2017. [pdf](https://doi.org/10/gpnmtv)
 
 ## Pre-trained Models
 
