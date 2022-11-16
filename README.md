@@ -2,14 +2,15 @@
 
 ## Transformer architecture
 
-- **Attention is all you need**. *Ashish Vaswani*, *Noam Shazeer*, *Niki Parmar*, et al,. *In* NIPS 2017. [pdf](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+- Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. **Attention is all you need**. In I. Guyon, U. V. Luxburg, S. Bengio, et al., editors, *Advances in neural information processing systems*, volume 30. Curran Associates, Inc. 2017. [pdf](https://doi.org/10/gpnmtv)
 
 ## Pre-trained Models
 
-- **BERT: pre-training of deep bidirectional transformers for language understanding**. *Jacob Devlin*, *Ming-Wei Chang*, *Kenton Lee*, *Kristina Toutanova*. *In* NAACL 2019. [pdf](https://aclanthology.org/N19-1423.pdf)
-- **BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension**. *Mike Lewis*, *Yinhan Liu*, *Naman Goyal*, et al,. *In* ACL 2020. [pdf](https://aclanthology.org/2020.acl-main.703.pdf)
-- **Improving language understanding by generative pre-training**. *Alec Radford*, *Tim Salimans*, *Ilya Sutskever*. *In* OpenAI blog 2018. [pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+- Jacob Devlin, Ming-Wei Chang, Kenton Lee, et al. **BERT: pre-training of deep bidirectional transformers for language understanding**. In *Proceedings of the 2019 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long and Short Papers)*, pages 4171–4186, Minneapolis, Minnesota. Association for Computational Linguistics. 2019. [pdf](https://doi.org/10/ggbwf6)
 
+- Mike Lewis, Yinhan Liu, Naman Goyal, et al. **BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension**. In *Proceedings of the 58th annual meeting of the association for computational linguistics*, pages 7871–7880, Online. Association for Computational Linguistics. 2020. [pdf](https://doi.org/10.18653/v1/2020.acl-main.703)
+
+- Alec Radford, Tim Salimans, and Ilya Sutskever. **Improving language understanding by generative pre-training**.In 2018. [pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
 ## QA
 
