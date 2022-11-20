@@ -12,6 +12,16 @@
 
 - Alec Radford, Tim Salimans, and Ilya Sutskever. **Improving language understanding by generative pre-training**.In 2018. [[pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)]
 
+- Yinhan Liu, Myle Ott, Naman Goyal, et al. **RoBERTa: a robustly optimized BERT pretraining approach**. 2019. 00000 
+arXiv: 1907.11692. [[pdf](http://arxiv.org/abs/1907.11692)]
+
+- Zhilin Yang, Zihang Dai, Yiming Yang, et al. **Xlnet: generalized autoregressive pretraining for language understanding**. In *Advances in neural information processing systems*, volume 32. 2019. [[pdf](http://papers.nips.cc/paper/8812-xlnet-generalizedautoregressive-pretraining-for-language-understanding.pdf)]
+
+- Zhengyan Zhang, Xu Han, Zhiyuan Liu, et al. **ERNIE: enhanced language representation with informative entities**.In *arXiv:1905.07129 [cs]*. 2019. arXiv: 1905.07129. [[pdf](http://arxiv.org/abs/1905.07129)]
+
+- Yu Sun, Shuohuan Wang, Yukun Li, et al. **ERNIE: enhanced representation through knowledge integration**.In *arXiv:1904.09223 [cs]*. 2019. arXiv: 1904.09223. [[pdf](http://arxiv.org/abs/1904.09223)]
+
+
 ## QA
 
 For **any** questions, feel free to open issues or contact [zhuwenq](https://github.com/Leonezz) directly.
