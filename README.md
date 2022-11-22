@@ -8,6 +8,10 @@
 
 - Ashish Vaswani, Noam Shazeer, Niki Parmar, et al. **Attention is all you need**. In *Advances in neural information processing systems*, volume 30. Curran Associates, Inc. 2017. [[pdf](https://doi.org/10/gpnmtv)]
 
+- [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)
+
+- [labml.ai Annotated PyTorch Paper Implementations](https://nn.labml.ai/index.html)
+
 ## Pre-trained Models
 
 Refer to [this slide](./reference_note/A-Brief-Introduction-to-PLMs/slide/Introduction-to-PLM.pdf) for a brief introduction.
