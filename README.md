@@ -1,4 +1,3 @@
-<<<<<<< HEAD:lzl_notes/README.md
 # Paper reading list for NLP research
 
 ## Transformer architecture
@@ -51,5 +50,4 @@ arXiv: 1907.11692. [[pdf](http://arxiv.org/abs/1907.11692)]
 
 ## QA
 
->>>>>>> 22c717ab3ce0af4db9d861700881c5d0b664cbf6:README.md
 For **any** questions, feel free to open issues or contact [zhuwenq](https://github.com/Leonezz) directly.
