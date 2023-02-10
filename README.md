@@ -10,9 +10,6 @@
 - **BART: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension**. *Mike Lewis*, *Yinhan Liu*, *Naman Goyal*, et al,. *In* ACL 2020. [pdf](https://aclanthology.org/2020.acl-main.703.pdf)
 - **Improving language understanding by generative pre-training**. *Alec Radford*, *Tim Salimans*, *Ilya Sutskever*. *In* OpenAI blog 2018. [pdf](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 
-
-## QA
-
 # Paper reading list for NLP research
 
 ## Zotero intro
@@ -45,7 +42,6 @@ arXiv: 1907.11692. [[pdf](http://arxiv.org/abs/1907.11692)]
 - Zhengyan Zhang, Xu Han, Zhiyuan Liu, et al. **ERNIE: enhanced language representation with informative entities**.In *arXiv:1905.07129 [cs]*. 2019. arXiv: 1905.07129. [[pdf](http://arxiv.org/abs/1905.07129)]
 
 - Yu Sun, Shuohuan Wang, Yukun Li, et al. **ERNIE: enhanced representation through knowledge integration**.In *arXiv:1904.09223 [cs]*. 2019. arXiv: 1904.09223. [[pdf](http://arxiv.org/abs/1904.09223)]
-
 
 ## QA
 
