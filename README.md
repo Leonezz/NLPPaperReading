@@ -13,7 +13,6 @@
 
 ## QA
 
-=======
 # Paper reading list for NLP research
 
 ## Zotero intro
