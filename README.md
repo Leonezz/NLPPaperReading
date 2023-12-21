@@ -43,6 +43,15 @@ arXiv: 1907.11692. [[pdf](http://arxiv.org/abs/1907.11692)]
 
 - Yu Sun, Shuohuan Wang, Yukun Li, et al. **ERNIE: enhanced representation through knowledge integration**.In *arXiv:1904.09223 [cs]*. 2019. arXiv: 1904.09223. [[pdf](http://arxiv.org/abs/1904.09223)]
 
+## UIE (Unified Information Extraction)
+
+- Yaojie Lu, Qing Liu, Dai Dai, et al. **Uniﬁed Structure Generation for Universal Information Extraction**. In *Proceedings of the 60th annual meeting of the association for computational linguistics (volume 1: Long papers)*. 2022. [[pdf](https://aclanthology.org/2022.acl-long.395.pdf)]
+- Jie Lou, Yaojie Lu, Dai Dai, et al. **Universal Information Extraction as Uniﬁed Semantic Matching**. In *arXiv:2301.03282*. 2023. [[pdf](http://arxiv.org/abs/2301.03282)]
+- Xiao Wang, Weikang Zhou, Can Zu, et al. **InstructUIE: Multi-task Instruction Tuning for Uniﬁed Information Extraction**. In *arXiv:2304.08085*. 2023. [[pdf](http://arxiv.org/abs/2304.08085)]
+- Peng Li, Tianxiang Sun, Qiong Tang, et al. **CODEIE: Large Code Generation Models are Better Few-Shot Information Extractors**. In *arXiv:2305.05711*. 2023. [[pdf](http://arxiv.org/abs/2305.05711)]
+- Junyu Lu, Ping Yang, Ruyi Gan, et al. **UniEX: An Effective and Efﬁcient Framework for Uniﬁed Information Extraction via a Span-extractive Perspective**. In *arXiv:2305.10306*. 2023. [[pdf](http://arxiv.org/abs/2305.10306)]
+- Tong Zhu, Junfei Ren, Zijian Yu, et al. **Mirror: A Universal Framework for Various Information Extraction Tasks**. In *arXiv:2311.05419*. 2023. [[pdf](http://arxiv.org/abs/2311.05419)]
+
 ## QA
 
 For **any** questions, feel free to open issues or contact [zhuwenq](https://github.com/Leonezz) directly.
